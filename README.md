@@ -28,7 +28,7 @@ To replicate this project, ensure you have Python and Jupyter Notebook installed
 
 ## Usage
 
-Open the `assignment1.ipynb` notebook in VSC, Jupyter Notebook or any compatible IDE to view the project. The notebook contains all the steps mentioned above, along with detailed comments and results.
+Open the `assignment1.ipynb` notebook in VSC, Jupyter Notebook or any compatible IDE to view the project. The notebook contains all the steps mentioned above, along with detailed comments and results. My code starts under the following markdown cell.
 
 ![image](https://github.com/Windz-GameDev/Assignment_1_ML/assets/97154040/0d0bedf8-f3fc-4d85-800d-10d372ea79de)
 
