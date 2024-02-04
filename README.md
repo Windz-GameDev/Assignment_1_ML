@@ -6,7 +6,7 @@ This repository contains my work for Assignment 1 in the CAP6610 Machine Learnin
 https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975, our class textbook, employing the scikit-learn package. My code for the assignment 
 specifically starts under the following markdown cell. 
 
-![image](https://github.com/Windz-GameDev/Assignment_1_ML/assets/97154040/0d0bedf8-f3fc-4d85-800d-10d372ea79de) 
+![image](https://github.com/Windz-GameDev/CAP6610_Assignment_1_ML/assets/97154040/f5b9392b-b494-4ab6-87b5-e67ef7e84d37)
 
 The template is referenced from https://github.com/ageron/handson-ml2 : see `02_end_to_end_machine_learning_project.ipynb`.
 
@@ -30,7 +30,7 @@ To replicate this project, ensure you have Python and Jupyter Notebook installed
 
 Open the `assignment1.ipynb` notebook in VSC, Jupyter Notebook or any compatible IDE to view the project. The notebook contains all the steps mentioned above, along with detailed comments and results. My code starts under the following markdown cell.
 
-![image](https://github.com/Windz-GameDev/Assignment_1_ML/assets/97154040/0d0bedf8-f3fc-4d85-800d-10d372ea79de)
+![image](https://github.com/Windz-GameDev/CAP6610_Assignment_1_ML/assets/97154040/f5b9392b-b494-4ab6-87b5-e67ef7e84d37)
 
 ## Conclusion
 
