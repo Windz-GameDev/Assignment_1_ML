@@ -3,7 +3,9 @@
 ## Overview
 
 This repository contains my work for Assignment 1 in the CAP6610 Machine Learning course at the University of North Florida, instructed by Dr. Liu. The assignment focuses on experimenting with various regression models using the dataset discussed in Chapter 2 of 
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975, our class textbook, employing the scikit-learn package.
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975, our class textbook, employing the scikit-learn package. My code for the assignment 
+specifically starts under the following markdown cell. ![image](https://github.com/Windz-GameDev/Assignment_1_ML/assets/97154040/0d0bedf8-f3fc-4d85-800d-10d372ea79de) The template is referenced from https://github.com/ageron/handson-ml2 : see `02_end_to_end_machine_learning_project.ipynb`.
+
 
 ## Objective
 
@@ -22,8 +24,7 @@ To replicate this project, ensure you have Python and Jupyter Notebook installed
 
 ## Usage
 
-Open the `assignment1.ipynb` notebook in VSC, Jupyter Notebook or any compatible IDE to view the project. The notebook contains all the steps mentioned above, along with detailed comments and results. My code for the assignment 
-specifically starts under the following markdown cell. The template is referenced from https://github.com/ageron/handson-ml2 : see `02_end_to_end_machine_learning_project.ipynb`.
+Open the `assignment1.ipynb` notebook in VSC, Jupyter Notebook or any compatible IDE to view the project. The notebook contains all the steps mentioned above, along with detailed comments and results.
 
 ![image](https://github.com/Windz-GameDev/Assignment_1_ML/assets/97154040/0d0bedf8-f3fc-4d85-800d-10d372ea79de)
 
