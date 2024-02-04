@@ -1,4 +1,4 @@
-# CAP6610 Assignment 1 – End-to-End ML Projects
+# CAP6610 Assignment 1 – End-to-End ML Project
 
 ## Overview
 
