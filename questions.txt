@@ -1,0 +1,20 @@
+1. Based on what you accomplished on steps 3 and 4, answer this question.
+Only looking at the mean of cross validation scores, which of the two
+models, K-Nearest Neighbors model and the Artificial Neural Networks model,
+is better?
+
+Your answer: Looking only at the mean of the cross validation scores, it appears that the Artificial Neural Networks model is superior as 
+as its mean error is smaller. That is, the average difference between the predicted value and the actual value. Obviously
+we would prefer to choose the model that minimizes our error, and best generalizes to new, unseen datasets.
+
+2. Based on what you accomplished on steps 5 and 6, answer this question.
+What is the best KNN model hyperparameter based your grid search?
+
+Your answer: The best hyperparameter combination returned by the GridSearch through all 36 possible combinations of the hyperparameter values based on the scoring metric, 
+negative mean squared error is the following : {'algorithm': 'auto', 'n_neighbors': 10, 'p': 1}. What this means is, if we use the KNN Regressor Model with these hyperparameters 
+to predict values for data similiar to our training data, this model configuration is expected to have superior predictions to other KNN Regressor Models of a different 
+configuration, i.e, different hyperparameters.
+
+(Note there may be non-deterministicness in your experiments so that the errors
+your program computes may vary.  As such, your answers here should be
+consistent with the error results shown in your Jupyter Notebook.)
